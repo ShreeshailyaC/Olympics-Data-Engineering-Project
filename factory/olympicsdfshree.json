@@ -1,0 +1,9 @@
+{
+	"name": "olympicsdfshree",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "52b0f118-7d7a-43e0-9a5a-e50cca40db99",
+		"tenantId": "522bd3c6-b1f0-4416-88f1-046743911946"
+	}
+}
