@@ -175,7 +175,7 @@
 				"typeProperties": {
 					"variableName": "v_file_names",
 					"value": {
-						"value": "@string(variables('v_file_array').value)",
+						"value": "@string(variables('v_file_array'))",
 						"type": "Expression"
 					}
 				}
